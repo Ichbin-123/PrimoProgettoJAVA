@@ -68,6 +68,7 @@ public class PrimaClasseJava {
 
         int prodotto = 2;
         prodotto *= 2;
+        prodotto *= 10;
         System.out.println(prodotto);
     }
 }

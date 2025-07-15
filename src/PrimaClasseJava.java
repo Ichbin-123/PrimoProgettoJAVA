@@ -71,6 +71,11 @@ public class PrimaClasseJava {
         prodotto *= 10;
         prodotto *= 20;
         System.out.println(prodotto);
+
+        int primoN = 123;
+        int secondoN = 37;
+        int resto2 = primoN%secondoN;
+        System.out.println(resto2);
     }
 }
 
